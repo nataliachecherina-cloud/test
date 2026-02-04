@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 test
-=======
 untest
->>>>>>> 2354e1d768ea38d0ac2e478cbc9c7dfc05827e68
 commit test
 522
 Add Line
