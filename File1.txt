@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 test update
 untest
 commit test
@@ -6,3 +6,4 @@ commit test
 Add Line
 555
 new brancj line
+new line fot gui
